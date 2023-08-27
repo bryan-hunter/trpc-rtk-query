@@ -1,5 +1,11 @@
 # trpc-rtk-query
 
+## 0.0.4
+
+### Patch Changes
+
+- [#65](https://github.com/otahontas/trpc-rtk-query/pull/65) [`09c91b1`](https://github.com/otahontas/trpc-rtk-query/commit/09c91b16a7798b6774bebfadc60f5e38f7d77032) Thanks [@otahontas](https://github.com/otahontas)! - Add tests for bigger router and queries after adding endpointoptions
+
 ## 0.0.3
 
 ### Patch Changes
